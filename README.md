@@ -1,5 +1,8 @@
 # implementation-of-multi-armed-bandit-algorithmes
 in this repository, I've implemented all multi-armed bandit algorithms.
+![image](https://user-images.githubusercontent.com/74808396/183279939-d8e669c5-51cc-4308-8d81-ae6b092abbff.png)
+
+
 ## multi-armed bandit problem 
 multi-armed bandit problems are the simplest kind of reinforcement learning problems because in these problems we just have one state and actions don't have any sequential and long-term effect you can read more about multi-armed bandit [here](https://towardsdatascience.com/solving-the-multi-armed-bandit-problem-b72de40db97c).
 ## implemented algorithms
