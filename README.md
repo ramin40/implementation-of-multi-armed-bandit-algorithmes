@@ -21,4 +21,4 @@ pythone code implemented by [JKCooper](https://github.com/JKCooper2) in [this re
 - install **numpy** and **matplotlib** libraries.
 - clone [this repository](https://github.com/JKCooper2/gym-bandits) and read installation guide to install bandit environment.
 - run **bandit_algorithems** notebook.
-- heve fun :) 
+- heve fun :wink:
